@@ -15,7 +15,7 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/pepijnvink/
-    - icon: X
+    - icon: twitter-x
       text: X
       href: https://twitter.com/pepijnvink
       
