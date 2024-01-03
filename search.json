@@ -1,24 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
+    "objectID": "current projects.html",
+    "href": "current projects.html",
+    "title": "Current Projects",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "About Me",
-    "section": "Education",
-    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "About Me",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
+    "text": "Work\nAs a student assistant I am currently involved in two maijn projects: - I assist programming the ggmice package for missing data visualization in R. This involves resolving minor bugs as well as adding new minor features, some of which have been featured in the latest release. More information on ggmice package can be found here - I assist the Open Science Programme at Utrecht University in the analysis of the biennial Open Science Monitor, which aims to assess attutudes and behaviors on open science practices among both scientific staff and support staff. preliminary results can be found here\n\n\nEducation\n\nMy thesis is on the use of causal inference methods to capture time-invariant confounders in cross-lagged panel models, with a focus on the RI-CLPM and the DPM. As a preliminary exploration, I wrote a research report evaluating the effect of unmeasured confounding in panel models. I write my thesis under the supervision of Ellen Hamaker and Jeroen Mulder."
   },
   {
     "objectID": "index.html",
@@ -26,5 +12,26 @@
     "title": "Pepijn Vink",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a Research MSc student in Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences at Utrecht University."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nUtrecht University | Utrecht, the Netherlands MSc Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences | Sept 2022 - present\nUtrecht University | Utrecht, the Netherlands BSc Psychology | Sept 2019 - June 2022"
+  },
+  {
+    "objectID": "about.html#relevant-experience",
+    "href": "about.html#relevant-experience",
+    "title": "About Me",
+    "section": "Relevant Experience",
+    "text": "Relevant Experience\nUtrecht University | Student Assistant | September 2021 - present\nUMC Utrecht | Student Assistant Education | September 2023 - present"
   }
 ]

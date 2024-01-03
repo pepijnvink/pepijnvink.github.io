@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pepijnvink.github.io/about.html</loc>
-    <lastmod>2023-12-20T17:40:24.573Z</lastmod>
+    <loc>https://pepijnvink.github.io/current projects.html</loc>
+    <lastmod>2024-01-03T11:41:35.282Z</lastmod>
   </url>
   <url>
     <loc>https://pepijnvink.github.io/index.html</loc>
-    <lastmod>2023-12-20T17:40:24.225Z</lastmod>
+    <lastmod>2024-01-03T11:41:34.652Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pepijnvink.github.io/about.html</loc>
+    <lastmod>2024-01-03T11:41:34.983Z</lastmod>
   </url>
 </urlset>
