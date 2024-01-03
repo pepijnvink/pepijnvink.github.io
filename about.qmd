@@ -4,26 +4,35 @@ about:
   template: jolla
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
+    - icon: mastodon
+      text: Mastodon
+      href: https://mastodon.social/@pepijnvink
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/pepijnvink
+    - text: ORCID
+      href: https://orcid.org/0000-0001-6960-9904
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/pepijnvink/
+    - icon: X
+      text: X
+      href: https://twitter.com/pepijnvink
+      
 ---
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+I am a Research MSc student in Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences at Utrecht University. 
 
 ## Education
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
+Utrecht University | Utrecht, the Netherlands
+MSc Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences | Sept 2022 - present
 
-Macalester College | St. Paul MA
-B.A in Economics | Sept 2007 - June 2011
+Utrecht University | Utrecht, the Netherlands
+BSc Psychology | Sept 2019 - June 2022
 
-## Experience
+## Relevant Experience
 
-Wengo Analytics | Head Data Scientist | April 2018 - present
+Utrecht University | Student Assistant | September 2021 - present
 
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
+UMC Utrecht | Student Assistant Education | September 2023 - present

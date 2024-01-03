@@ -1,0 +1,12 @@
+---
+title: "Current Projects"
+---
+
+# Work
+As a student assistant I am currently involved in two maijn projects:
+- I assist programming the `ggmice` package for missing data visualization in R. This involves resolving minor bugs as well as adding new minor features, some of which have been featured in the latest release. More information on `ggmice` package can be found [here](https://amices.org/ggmice/index.html)
+- I assist the Open Science Programme at Utrecht University in the analysis of the biennial Open Science Monitor, which aims to assess attutudes and behaviors on open science practices among both scientific staff and support staff. preliminary results can be found [here](https://www.uu.nl/sites/default/files/230203%20UU%20general%20%20.pdf)
+
+# Education
+- My thesis is on the use of causal inference methods to capture time-invariant confounders in cross-lagged panel models, with a focus on the RI-CLPM and the DPM. As a preliminary exploration, I wrote a [research report](https://github.com/pepijnvink/Research-Report) evaluating the effect of unmeasured confounding in panel models. I write my thesis under the supervision of Ellen Hamaker and Jeroen Mulder.
+- 

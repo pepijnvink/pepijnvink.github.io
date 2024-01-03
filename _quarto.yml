@@ -8,6 +8,8 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: current projects.qmd
+        text: Current Projects
 
 format:
   html:
