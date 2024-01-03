@@ -3,7 +3,7 @@ on:
   push:
     branches: main
 
-name: Quarto Publish Pepijn Vink
+name: Quarto Publish bot pub
 
 jobs:
   build-deploy:
