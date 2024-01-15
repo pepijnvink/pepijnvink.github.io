@@ -9,6 +9,8 @@ website:
         text: About Me
       - href: current projects.qmd
         text: Current Projects
+      - href: CV.qmd
+        text: CV
 
 format:
   html:

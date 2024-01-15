@@ -1,0 +1,100 @@
+---
+title: "Curriculum Vitae"
+format:
+  html: default
+  pdf:
+    author: Pepijn A. Vink
+    pdf-engine: weasyprint
+css: cv.css
+format-links: [pdf]
+---
+
+:::: {.columns}
+
+:::{.column width=33%}
+
+## Skills
+Statistics\
+Programming\
+Public speaking\
+Chairing meetings\
+Teaching\
+
+:::
+
+::: {.column width=33%}
+
+## Software
+R\
+SPSS\
+JAGS\
+JASP\
+MPlus\
+
+:::
+
+::: {.print-only}
+
+::: {.column width=33%}
+
+::: {.contact-block}
+
+## Contact
+p.a.vink@uu.nl\
+[Website](https://pepijnvink.github.io)\
+[LinkedIn](https://www.linkedin.com/pepijnvink)\
+[Github](https://www.github.com/pepijnvink)\
+:::
+
+:::
+
+:::
+
+::::
+
+## Education
+**MSc -- Methodology and Statistics for the Behavioral, Biomedical, and Social Sciences**\
+*Utrecht University*
+[*Sept 2022 --- Present*]{.cvdate}
+
+- Courses on mathematical statistics, survey data analysis, multivariate statistics, causal inference, structural equation modeling, multilevel modeling, psychometrics, biomedical statistics, Bayesian statistics, markup languages, and data science.
+- Programming in R, JAGS, JASP, SPSS, and MPlus.
+- Research traineehip on Bayesian algorithms for the discovery of causal DAGs on cross-sectional data under the supervision of Maarten Marsman & Noémi Schuurman.
+- Thesis on the application of causal inference methods to control for time-invariant confounding in the Random Intercept Cross-Lagged Panel Model. Supervised by Ellen Hamaker & Jeroen Mulder.
+
+**BSc -- Psychology**\
+*Utrecht University* [*Sept 2019 --- June 2022*]{.cvdate}
+
+- Grade: 7.8.
+- Focus on social psychology.
+- Electives in the field of methodology and statistics.
+- Thesis: 'Bayesianism vs Frequentism: A Conceptual and Quantitative Comparison of NHST, Confidence Intervals, Credible Intervals, and the Bayes Factor Through Simulated t-tests.' under the supervision of Irene Klugkist. Grade: 8.7.
+
+# Experience
+**Student Assistant**\
+*Utrecht University* [*Sept 2021 --- Present*]{.cvdate}
+
+- Teaching assistent for several bachelor courses for the faculty of social and behavioral sciences. This includes teaching workgroups as well as practicals for SPSS, JASP, R, and NVivo.
+- Also involved as a practical teacher for UU summer school courses on MPlus.
+- Involved as a research assistant for the missing data workgroup.
+- Also involved as a research assistant on the biennial Open Science Monitor.
+
+**Student Assistant Education**\
+*UMC Utrecht* [*Sept 2023 --- Present*]{.cvdate}
+
+- Teaching assistent for several methodology and statistics courses offered by the department of biostatistics.
+- Taught practicals for the courses 'Classical Methods in Data Analysis (MSc Epidemiology)' and 'Epidemiology and Big Data (MSc Applied Data Science)'.
+
+**Vice-Praeses (Vice-President)**\
+*U.H.S.V. Anteros* [*Sept 2019 --- Sept 2020*]{.cvdate}
+
+- U.H.S.V. Anteros is an LGBT+ Student Association in Utrecht
+- As Vice-President, I was mainly involved with maintaing relationships with other associations, occasionally chairing meetings, as well as other smaller tasks.
+
+## MISCELLANEOUS
+
+**Panel Member. 'Open Science, an Alluring Perspective for SoTL'**\
+*ISOTL23 Conference* [*Nov 2023*]{.cvdate}
+
+- Panel member at the conference for the International Scholarship of Teaching and Learning (ISOTL).
+- Panel on the connection between open science and education.

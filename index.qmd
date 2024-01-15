@@ -20,7 +20,7 @@ about:
       
 ---
 
-My name is Pepijn (he/him). I am currently a Research MSc student in Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences at Utrecht University.
+My name is Pepijn (he/him). I am currently a Research MSc student in Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences at Utrecht University. For more info on my experience, go to my [CV](https://pepijnvink.github.io/CV)
 
 ## Education
 
