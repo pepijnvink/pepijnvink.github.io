@@ -70,7 +70,7 @@ p.a.vink@uu.nl\
 - Electives in the field of methodology and statistics.
 - Thesis: 'Bayesianism vs Frequentism: A Conceptual and Quantitative Comparison of NHST, Confidence Intervals, Credible Intervals, and the Bayes Factor Through Simulated t-tests.' under the supervision of Irene Klugkist. Grade: 8.7.
 
-# Experience
+## Experience
 **Student Assistant**\
 *Utrecht University* [*Sept 2021 --- Present*]{.cvdate}
 
