@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "My name is Pepijn (he/him). I am currently a Research MSc student in Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences at Utrecht University."
+    "text": "My name is Pepijn (he/him). I am currently a Research MSc student in Methodology and Statistics in the Behavioral, Biomedical, and Social Sciences at Utrecht University. For more info on my experience, go to my CV"
   },
   {
     "objectID": "index.html#education",
@@ -26,5 +26,47 @@
     "title": "About Me",
     "section": "Relevant Experience",
     "text": "Relevant Experience\nUtrecht University | Student Assistant | September 2021 - present\nUMC Utrecht | Student Assistant Education | September 2023 - present"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Statistics\nProgramming\nPublic speaking\nChairing meetings\nTeaching\n\n\n\n\n\nR\nSPSS\nJAGS\nJASP\nMPlus\n\n\n\n\n\n\np.a.vink@uu.nl\nWebsite\nLinkedIn\nGithub"
+  },
+  {
+    "objectID": "CV.html#skills",
+    "href": "CV.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Statistics\nProgramming\nPublic speaking\nChairing meetings\nTeaching"
+  },
+  {
+    "objectID": "CV.html#software",
+    "href": "CV.html#software",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "R\nSPSS\nJAGS\nJASP\nMPlus"
+  },
+  {
+    "objectID": "CV.html#contact",
+    "href": "CV.html#contact",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "p.a.vink@uu.nl\nWebsite\nLinkedIn\nGithub"
+  },
+  {
+    "objectID": "CV.html#education",
+    "href": "CV.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nMSc – Methodology and Statistics for the Behavioral, Biomedical, and Social Sciences\nUtrecht University Sept 2022 — Present\n\nCourses on mathematical statistics, survey data analysis, multivariate statistics, causal inference, structural equation modeling, multilevel modeling, psychometrics, biomedical statistics, Bayesian statistics, markup languages, and data science.\nProgramming in R, JAGS, JASP, SPSS, and MPlus.\nResearch traineehip on Bayesian algorithms for the discovery of causal DAGs on cross-sectional data under the supervision of Maarten Marsman & Noémi Schuurman.\nThesis on the application of causal inference methods to control for time-invariant confounding in the Random Intercept Cross-Lagged Panel Model. Supervised by Ellen Hamaker & Jeroen Mulder.\n\nBSc – Psychology\nUtrecht University Sept 2019 — June 2022\n\nGrade: 7.8.\nFocus on social psychology.\nElectives in the field of methodology and statistics.\nThesis: ‘Bayesianism vs Frequentism: A Conceptual and Quantitative Comparison of NHST, Confidence Intervals, Credible Intervals, and the Bayes Factor Through Simulated t-tests.’ under the supervision of Irene Klugkist. Grade: 8.7."
+  },
+  {
+    "objectID": "CV.html#miscellaneous",
+    "href": "CV.html#miscellaneous",
+    "title": "Curriculum Vitae",
+    "section": "MISCELLANEOUS",
+    "text": "MISCELLANEOUS\nPanel Member. ‘Open Science, an Alluring Perspective for SoTL’\nISOTL23 Conference Nov 2023\n\nPanel member at the conference for the International Scholarship of Teaching and Learning (ISOTL).\nPanel on the connection between open science and education."
   }
 ]
