@@ -7,10 +7,10 @@ website:
     left:
       - href: index.qmd
         text: About Me
-      - href: current projects.qmd
-        text: Current Projects
       - href: CV.qmd
         text: CV
+      - href: current projects.qmd
+        text: Current Projects
 
 format:
   html:
