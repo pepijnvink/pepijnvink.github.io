@@ -8,7 +8,7 @@ website:
       - href: index.qmd
         text: About Me
       - icon: bi-box-arrow-up-right
-        href: pepijnvink.github.io/CV/PepijnVinkCV.pdf
+        href: https://pepijnvink.github.io/CV/PepijnVinkCV.pdf
         text: CV
       - href: current projects.qmd
         text: Current Projects
