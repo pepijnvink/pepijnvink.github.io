@@ -15,8 +15,6 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/pepijnvink/
-    - text: "{{< fa brands x-twitter >}}"
-      href: https://twitter.com/pepijnvink
       
 ---
 
