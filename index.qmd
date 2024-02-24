@@ -2,7 +2,7 @@
 title: "About Me"
 about:
   template: jolla
-  image: profile.jpg
+  image: CV Foto.jpg
   links:
     - icon: mastodon
       text: Mastodon
